@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Explosion
+  - BulletEnemy
+  - BulletPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - PlayerFire
+  - EnemyFire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 580653777
+    locked: 0
+  - name: Bricks
+    uniqueID: 489782157
+    locked: 0
+  - name: Bullets
+    uniqueID: 2636078529
+    locked: 0
+  - name: Tanks
+    uniqueID: 3171729531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
